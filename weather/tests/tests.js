@@ -5,7 +5,7 @@ chai.should();
 
 const weather = require('../index.js');
 
-describe('Weather', () => {
+/*describe('Weather', () => {
 	it('should get the weather', (done) => {
 	});
-});
+});*/
